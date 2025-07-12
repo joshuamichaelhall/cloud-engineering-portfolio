@@ -15,7 +15,7 @@ Documenting my journey from MSP founder to AWS Solutions Architect. This reposit
 - Security+ intensive study
 - AWS Cloud Practitioner fundamentals
 - Setting up AWS learning environment
-- Registered for Training Camp AWS bootcamp (July 21-26)
+- Registered for Training Camp AWS bootcamp (July 21-26, 2025)
 
 ## 🛠️ Projects
 
@@ -27,18 +27,19 @@ Documenting my journey from MSP founder to AWS Solutions Architect. This reposit
 ## 📚 Study Resources
 
 ### AWS Solutions Architect Associate
-- **Official AWS Training**: Training Camp Virtual Bootcamp (July 21-26)
+- **Official AWS Training**: Training Camp Virtual Bootcamp (July 21-26, 2025)
 - **Practice Exams**: TBD
 - **Hands-on Labs**: Planning to use AWS free tier
 - **Study Group**: Joining Triangle AWS User Group
 
 ## 🌟 Background
 
-Former MSP founder with experience managing infrastructure for 30+ clients across 14 states. Transitioning to cloud engineering with focus on:
+Former MSP founder with experience managing infrastructure for 30+ clients across 14 states. Transitioning to cloud engineering with focus on the Triangle market:
 - Cloud cost optimization
 - Security-first architecture
 - Infrastructure automation
 - Healthcare compliance (HIPAA)
+- Enterprise cloud migrations
 
 ## 🎯 Why Cloud Engineering?
 
@@ -48,9 +49,13 @@ After building a successful MSP, I realized the future is in the cloud. My exper
 - Security considerations that matter
 - Real-world migration challenges
 
-## 📍 Location
+## 📍 Location & Career Goals
 
-Relocating to Raleigh-Durham Research Triangle - excited to join this thriving tech community!
+**Relocating to the Triangle** (Raleigh-Durham-Chapel Hill) - excited to join this thriving tech community!
+
+**Target Role**: Cloud Engineer / Solutions Architect
+**Availability**: October 2025
+**Compensation Goal**: $125K base + performance bonuses
 
 ## 📫 Connect
 
