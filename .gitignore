@@ -1,0 +1,30 @@
+# AWS credentials - NEVER commit these!
+.aws/
+*.pem
+*.key
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.Python
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
