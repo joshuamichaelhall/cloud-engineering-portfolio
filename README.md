@@ -1,67 +1,89 @@
-# AWS Learning Journey 🚀
+# Cloud Engineering Portfolio
 
-Documenting my journey from MSP founder to AWS Solutions Architect. This repository tracks my progress, shares study notes, and showcases projects as I build cloud engineering expertise.
+Hi, I'm Josh\! I'm a former MSP founder transitioning to cloud engineering, combining 26 years of leadership experience with modern cloud technologies and programming skills.
 
-## 🎯 Current Goals
+## 🎯 About Me
 
-- [x] CompTIA Security+ (Renewal) - July 2025
-- [ ] AWS Cloud Practitioner - July 2025
-- [ ] AWS Solutions Architect Associate - August 2025
-- [ ] AWS Solutions Architect Professional - September 2025
+- **Background**: Founded and scaled an MSP to $250K revenue, now pursuing cloud engineering
+- **Current Focus**: AWS Solutions Architect certification and building production-ready cloud solutions
+- **Specialties**: Cost optimization, Python automation, infrastructure as code
+- **Education**: Launch School graduate (top 10% in Python/Ruby on Codewars)
 
-## 📅 Weekly Progress
+## 🚀 Featured Projects
 
-### Week 1 (July 14-20, 2025)
-- Security+ intensive study
-- AWS Cloud Practitioner fundamentals
-- Setting up AWS learning environment
-- Registered for Training Camp AWS bootcamp (July 21-26, 2025)
+### 1. [Multi-Cloud Cost Dashboard](./projects/01-multi-cloud-cost-dashboard/)
+**Problem**: Companies struggle to track and optimize cloud costs across multiple providers  
+**Solution**: Automated dashboard providing real-time cost analysis and optimization recommendations  
+**Impact**: Designed to save 20-40% on cloud costs based on MSP client experiences  
+**Tech Stack**: Python, Boto3, React, AWS Lambda, CloudWatch  
+**Status**: In Development (August 2025)
 
-## 🛠️ Projects
+### 2. [Security Automation Platform](./projects/02-security-automation-platform/)
+**Problem**: Manual security audits are time-consuming and error-prone  
+**Solution**: Automated security scanning with auto-remediation capabilities  
+**Impact**: Reduce security audit time by 80%, improve compliance posture  
+**Tech Stack**: Python, AWS Lambda, EventBridge, SNS, Terraform  
+**Status**: Planned (September 2025)
 
-### 1. Cost Optimization Toolkit
-- Simple Python scripts for AWS cost analysis
-- Helped previous clients save 20-30% on cloud spend
-- [View Project](https://github.com/joshuamichaelhall/aws-cost-optimization-toolkit)
+### 3. [Serverless CI/CD Pipeline](./projects/03-serverless-cicd-pipeline/)
+**Problem**: Traditional CI/CD infrastructure is expensive and complex  
+**Solution**: Serverless pipeline with zero infrastructure costs  
+**Impact**: Deploy with confidence while eliminating CI/CD infrastructure overhead  
+**Tech Stack**: GitHub Actions, AWS Lambda, S3, CloudFormation  
+**Status**: Planned (September 2025)
 
-## 📚 Study Resources
+### 4. [Infrastructure as Code Framework](./projects/04-infrastructure-framework/)
+**Problem**: Teams struggle with consistent, secure infrastructure deployment  
+**Solution**: Reusable Terraform modules with security best practices built-in  
+**Impact**: Deploy production-ready infrastructure in minutes, not days  
+**Tech Stack**: Terraform, Python, AWS, Security scanning tools  
+**Status**: Planned (October 2025)
 
-### AWS Solutions Architect Associate
-- **Official AWS Training**: Training Camp Virtual Bootcamp (July 21-26, 2025)
-- **Practice Exams**: TBD
-- **Hands-on Labs**: Planning to use AWS free tier
-- **Study Group**: Joining Triangle AWS User Group
+## ☕ Daily Coffee Scripts
 
-## 🌟 Background
+Browse my [daily automation scripts](./coffee-scripts/) - practical solutions to real AWS problems, each built in under 15 minutes with morning coffee.
 
-Former MSP founder with experience managing infrastructure for 30+ clients across 14 states. Transitioning to cloud engineering with focus on the Triangle market:
-- Cloud cost optimization
-- Security-first architecture
-- Infrastructure automation
-- Healthcare compliance (HIPAA)
-- Enterprise cloud migrations
+### Recent Scripts
+- [EC2 Instance Inventory with Cost Analysis](./coffee-scripts/2025-08/)
+- [S3 Encryption Compliance Checker](./coffee-scripts/2025-08/)
+- [Automated EBS Snapshot Manager](./coffee-scripts/2025-08/)
 
-## 🎯 Why Cloud Engineering?
+## 🏆 Certifications
 
-After building a successful MSP, I realized the future is in the cloud. My experience managing traditional infrastructure gives me unique insights into:
-- What businesses actually need from cloud platforms
-- How to control costs while scaling
-- Security considerations that matter
-- Real-world migration challenges
+- **CompTIA Security+** - Completing August 2025
+- **AWS Solutions Architect Associate** - Target: September 2025
+- **AWS Developer Associate** - Target: Q4 2025
 
-## 📍 Location & Career Goals
+[View my certification journey and study notes →](./certifications/)
 
-**Relocating to the Triangle** (Raleigh-Durham-Chapel Hill) - excited to join this thriving tech community!
+## 📝 Technical Writing
 
-**Target Role**: Cloud Engineer / Solutions Architect
-**Availability**: October 2025
-**Compensation Goal**: $125K base + performance bonuses
+I write about cloud engineering, cost optimization, and my career transition journey.
 
-## 📫 Connect
+### Recent Posts
+- [From MSP Founder to Cloud Engineer: Why I Made the Switch](./blog-posts/published/)
+- [5 AWS Cost Optimization Wins from Running an MSP](./blog-posts/published/)
+- [Building Security Automation That Actually Works](./blog-posts/published/)
 
-- [LinkedIn](https://linkedin.com/in/joshuamichaelhall)
-- [Portfolio](https://joshuamichaelhall.github.io)
+## 🛠️ Technical Skills
+
+- **Cloud**: AWS (EC2, S3, Lambda, RDS, VPC, IAM, CloudFormation)
+- **Languages**: Python, Ruby, Bash, SQL
+- **IaC**: Terraform, CloudFormation
+- **Tools**: Git, Docker, Linux, VS Code
+- **Frameworks**: React (learning), Flask, Sinatra
+
+## 📊 GitHub Stats
+
+\![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuamichaelhall&show_icons=true&theme=dark)
+
+## 📫 Let's Connect
+
+- **LinkedIn**: [joshuamichaelhall](https://linkedin.com/in/joshuamichaelhall)
+- **GitHub**: [joshuamichaelhall](https://github.com/joshuamichaelhall)
+- **Email**: cloud@joshuahall.dev
 
 ---
 
-*This repository is updated weekly as I progress through my AWS certification journey.*
+*This portfolio is actively maintained and updated daily as part of my 90-day sprint to a cloud engineering role.*
+EOF < /dev/null
