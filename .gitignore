@@ -1,5 +1,17 @@
+# AWS Environment
+aws-env/
+*.tfstate
+*.tfstate.backup
+.terraform/
+.env
+*.pem
+.aws/
+
 # Python
 __pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
 *.py[cod]
 *$py.class
 *.so
@@ -10,15 +22,7 @@ ENV/
 .venv
 *.egg-info/
 
-# AWS
-.aws/
-*.pem
-*.ppk
-
 # Terraform
-*.tfstate
-*.tfstate.*
-.terraform/
 *.tfvars
 override.tf
 override.tf.json
@@ -26,14 +30,12 @@ override.tf.json
 *_override.tf.json
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
 .DS_Store
 
 # Environment
-.env
 .env.local
 .env.*.local
 
@@ -44,13 +46,11 @@ logs/
 # Testing
 .coverage
 htmlcov/
-.pytest_cache/
 .tox/
 
 # Build
 build/
 dist/
-*.egg-info/
 
 # Demo content
 demo/*.mp4

@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "./aws-env/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "terraform.experimentalFeatures.validateOnSave": true,
+    "files.exclude": {
+        "aws-env": true,
+        "**/.terraform": true
+    }
+}
+EOF < /dev/null
