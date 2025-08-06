@@ -7,7 +7,7 @@ Hi, I'm Josh\! I'm a former MSP founder transitioning to cloud engineering, comb
 - **Background**: Founded and scaled an MSP to $250K revenue, now pursuing cloud engineering
 - **Current Focus**: AWS Solutions Architect certification and building production-ready cloud solutions
 - **Specialties**: Cost optimization, Python automation, infrastructure as code
-- **Education**: Launch School graduate (top 10% in Python/Ruby on Codewars)
+- **Education**: Completed 9 backend courses (Ruby, Python, SQL, databases, OOP) - top 10% in Python/Ruby on Codewars
 
 ## 🚀 Featured Projects
 
