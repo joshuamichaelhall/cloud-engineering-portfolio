@@ -1,43 +1,43 @@
-# AI+FinOps Executive Portfolio
+# Cloud Engineering Portfolio
 
-Hi, I'm Josh! I'm an AI+FinOps Executive and former technology entrepreneur, combining 26 years of C-suite leadership experience with deep AI infrastructure expertise and enterprise cost optimization mastery.
+Hi, I'm Josh! I'm a Cloud Engineer and former technology entrepreneur, combining practical infrastructure experience with programming skills and cost optimization expertise.
 
 ## 🎯 About Me
 
-- **Background**: Founded and scaled a technology company to $250K revenue, now pursuing Chief AI Officer roles
-- **Current Focus**: AI platform cost optimization and enterprise AI transformation leadership
-- **Specialties**: AI+FinOps, $100M+ infrastructure optimization, enterprise AI governance
-- **Education**: Advanced technical foundation (Ruby, Python, SQL, databases, OOP) + Executive AI Leadership programs
+- **Background**: Founded and operated a managed services provider, now pursuing cloud engineering roles
+- **Current Focus**: Cloud infrastructure cost optimization and security automation
+- **Specialties**: AWS cloud architecture, cost optimization, infrastructure automation
+- **Education**: Programming foundation (Ruby, Python, SQL, databases, OOP) + AWS certification track
 
 ## 🚀 Featured Projects
 
-### 1. [Enterprise AI Cost Optimization Platform](./projects/01-multi-cloud-cost-dashboard/)
-**Problem**: Fortune 500 companies struggle with $100M+ AI infrastructure spend visibility and optimization  
-**Solution**: Executive-grade AI cost management platform with predictive optimization and C-suite reporting  
-**Impact**: $50M+ annual savings potential, 99.9% AI platform availability  
-**Tech Stack**: Python, AI/ML APIs, React, Multi-cloud orchestration, Executive dashboards  
-**Status**: Enterprise Development (August 2025)
+### 1. [Multi-Cloud Cost Dashboard](./projects/01-multi-cloud-cost-dashboard/)
+**Problem**: Organizations need better visibility into cloud infrastructure spend across providers  
+**Solution**: Real-time cost tracking and optimization recommendations platform  
+**Impact**: Automated cost monitoring and optimization recommendations  
+**Tech Stack**: Python, AWS Cost APIs, React, CloudWatch, Terraform  
+**Status**: Development (August 2025)
 
-### 2. [AI Governance & Compliance Framework](./projects/02-security-automation-platform/)
-**Problem**: Enterprise AI deployments lack governance frameworks for regulatory compliance  
-**Solution**: Automated AI model governance with regulatory reporting and compliance automation  
-**Impact**: 80% reduction in AI compliance costs, accelerated AI deployment by 300%  
-**Tech Stack**: Python, AI governance APIs, Enterprise audit systems, Regulatory frameworks  
-**Status**: Enterprise Implementation (September 2025)
+### 2. [Security Automation Platform](./projects/02-security-automation-platform/)
+**Problem**: Organizations need automated security compliance checking and remediation  
+**Solution**: Automated security scanning with compliance reporting and auto-remediation  
+**Impact**: Reduced manual security audit time and improved compliance posture  
+**Tech Stack**: Python, AWS Security Hub, Lambda, CloudTrail, Security APIs  
+**Status**: Development (September 2025)
 
-### 3. [Intelligent AI Resource Orchestration](./projects/03-serverless-cicd-pipeline/)
-**Problem**: AI workloads require dynamic resource allocation for optimal cost-performance  
-**Solution**: AI-driven infrastructure optimization with predictive scaling and business impact modeling  
-**Impact**: 45% reduction in AI compute costs, 3x faster model deployment  
-**Tech Stack**: Kubernetes, AI optimization algorithms, Multi-cloud APIs, Business intelligence  
-**Status**: Enterprise Implementation (September 2025)
+### 3. [Serverless CI/CD Pipeline](./projects/03-serverless-cicd-pipeline/)
+**Problem**: Development teams need automated deployment pipelines with testing and rollback  
+**Solution**: Complete GitOps implementation with automated testing and blue-green deployments  
+**Impact**: Faster, more reliable deployments with automated rollback capabilities  
+**Tech Stack**: GitHub Actions, AWS CodePipeline, Docker, Terraform, Lambda  
+**Status**: Development (September 2025)
 
-### 4. [Executive AI Financial Operations](./projects/04-infrastructure-framework/)
-**Problem**: C-suite lacks visibility into AI investment ROI and budget optimization opportunities  
-**Solution**: FinOps framework specifically designed for AI workloads with executive reporting  
-**Impact**: Complete AI spend transparency, 90% reduction in budget surprises  
-**Tech Stack**: FinOps platforms, AI cost analytics, Executive dashboards, Budget automation  
-**Status**: C-Suite Implementation (October 2025)
+### 4. [Infrastructure Monitoring Framework](./projects/04-infrastructure-framework/)
+**Problem**: Organizations need comprehensive monitoring and alerting for cloud infrastructure  
+**Solution**: Custom monitoring solution with predictive alerting and optimization recommendations  
+**Impact**: Improved system reliability and proactive issue detection  
+**Tech Stack**: CloudWatch, Grafana, Python, Terraform, Custom metrics  
+**Status**: Development (October 2025)
 
 ## ☕ Daily Coffee Scripts
 
@@ -85,5 +85,5 @@ I write about cloud engineering, cost optimization, and my career transition jou
 
 ---
 
-*This portfolio is actively maintained and updated daily as part of my 90-day sprint to a cloud engineering role.*
+*This portfolio is actively maintained and updated as part of my cloud engineering career development.*
 EOF < /dev/null
