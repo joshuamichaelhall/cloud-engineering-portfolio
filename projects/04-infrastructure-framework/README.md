@@ -23,7 +23,7 @@ A comprehensive framework of reusable Terraform modules that implement security 
 - Reusable Terraform modules
 - Security by default
 - Cost optimization built-in
-- Compliance templates (HIPAA, SOC2)
+- Compliance templates (SOC2, AI governance)
 - Multi-region support
 
 ## 🛠️ Technical Implementation
